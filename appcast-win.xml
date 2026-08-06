@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Assay</title>
+        <link>https://github.com/karpovantonme/assay-releases</link>
+        <description>Обновления Assay для Windows</description>
+        <language>ru</language>
+    </channel>
+</rss>
